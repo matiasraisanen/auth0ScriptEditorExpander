@@ -10,7 +10,7 @@ Code editor will be extended to 100% the script's length.
 2. Activate developer mode using the toggle on the top right.  
 ![devmode](./images/devmode.png)  
 
-3. Click the "Load unpackaged"-button that just popped up and select `./extensionCode`-folder  
+3. Click the "Load unpackaged"-button that just popped up and select `./extensionCode`-folder from this repo.
 
 4. Extension is now enabled. Reload auth0 site if it does not work.  
 
