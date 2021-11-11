@@ -1,7 +1,7 @@
 # Auth0 Script Editor Expander
-Chrome extension for expanding that teeny weeny browser Script editor on auth0, so that it's easier to edit scripts in the browser.
+Chrome extension for expanding that teeny weeny in-browser Script editor on auth0 dashboard.
 
-Code editor will be extended to 100% the script's length.
+Code window will be extended to 100% the script's length.
 
 ## How to install
 
