@@ -5,7 +5,7 @@ Code editor will be extended to 100% the script's length.
 
 ## How to install
 
-1. In Chrome, navigate to [chrome://extensions](chrome://extensions)
+1. In Chrome, navigate to `chrome://extensions`  
 
 2. Activate developer mode using the toggle on the top right.  
 ![devmode](./images/devmode.png)  
