@@ -5,6 +5,8 @@ Code window will be extended to 100% of the script's length. No more scroll bars
 
 ## How to install
 
+0. Clone this repo.
+
 1. In Chrome, navigate to `chrome://extensions`  
 
 2. Activate developer mode using the toggle on the top right.  
